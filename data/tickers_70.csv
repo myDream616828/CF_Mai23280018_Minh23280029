@@ -1,0 +1,71 @@
+Ticker,Sector,Name
+AAPL,Technology,Apple Inc.
+MSFT,Technology,Microsoft Corp.
+NVDA,Technology,NVIDIA Corp.
+AVGO,Technology,Broadcom Inc.
+ADBE,Technology,Adobe Inc.
+CRM,Technology,Salesforce Inc.
+AMD,Technology,Advanced Micro Devices
+JNJ,Healthcare,Johnson & Johnson
+LLY,Healthcare,Eli Lilly and Co.
+UNH,Healthcare,UnitedHealth Group
+MRK,Healthcare,Merck & Co.
+PFE,Healthcare,Pfizer Inc.
+TMO,Healthcare,Thermo Fisher Scientific
+ABBV,Healthcare,AbbVie Inc.
+JPM,Financial,JPMorgan Chase
+BRK-B,Financial,Berkshire Hathaway
+V,Financial,Visa Inc.
+MA,Financial,Mastercard Inc.
+BAC,Financial,Bank of America
+GS,Financial,Goldman Sachs
+MS,Financial,Morgan Stanley
+AMZN,Consumer Discretionary,Amazon.com
+TSLA,Consumer Discretionary,Tesla Inc.
+HD,Consumer Discretionary,Home Depot
+MCD,Consumer Discretionary,McDonald's
+NKE,Consumer Discretionary,Nike Inc.
+SBUX,Consumer Discretionary,Starbucks
+LOW,Consumer Discretionary,Lowe's
+PG,Consumer Staples,Procter & Gamble
+COST,Consumer Staples,Costco Wholesale
+KO,Consumer Staples,Coca-Cola
+PEP,Consumer Staples,PepsiCo
+WMT,Consumer Staples,Walmart
+MDLZ,Consumer Staples,Mondelez International
+CAT,Industrials,Caterpillar Inc.
+GE,Industrials,General Electric
+HON,Industrials,Honeywell
+UNP,Industrials,Union Pacific
+BA,Industrials,Boeing
+LMT,Industrials,Lockheed Martin
+GOOGL,Communication Services,Alphabet Inc.
+META,Communication Services,Meta Platforms
+NFLX,Communication Services,Netflix
+DIS,Communication Services,Walt Disney
+CMCSA,Communication Services,Comcast
+TMUS,Communication Services,T-Mobile US
+XOM,Energy,Exxon Mobil
+CVX,Energy,Chevron Corp.
+COP,Energy,ConocoPhillips
+SLB,Energy,Schlumberger
+EOG,Energy,EOG Resources
+MPC,Energy,Marathon Petroleum
+LIN,Materials,Linde plc
+SHW,Materials,Sherwin-Williams
+FCX,Materials,Freeport-McMoRan
+NUE,Materials,Nucor Corp.
+ECL,Materials,Ecolab Inc.
+APD,Materials,Air Products (Replaced DOW)
+AMT,Real Estate,American Tower
+PLD,Real Estate,Prologis
+EQIX,Real Estate,Equinix
+CCI,Real Estate,Crown Castle
+SPG,Real Estate,Simon Property Group
+O,Real Estate,Realty Income
+NEE,Utilities,NextEra Energy
+SO,Utilities,Southern Company
+DUK,Utilities,Duke Energy
+SRE,Utilities,Sempra
+AEP,Utilities,American Electric Power
+ED,Utilities,Consolidated Edison
