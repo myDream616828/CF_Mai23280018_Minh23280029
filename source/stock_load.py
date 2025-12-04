@@ -5,7 +5,7 @@ import os
 # ========================================================
 # 1. HÀM ĐỌC DANH SÁCH MÃ (TỪ CSV)
 # ========================================================
-def load_ticker_list(csv_path='data/tickers.csv'):
+def load_ticker_list(csv_path='data/tickers_70.csv'):
     """
     Đọc danh sách mã chứng khoán từ file CSV.
     Trả về: List các mã (tickers) và DataFrame thông tin chi tiết.
